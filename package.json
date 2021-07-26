@@ -1,0 +1,21 @@
+{
+  "name": "Unireview",
+  "version": "1.0.0",
+  "description": "A decentralised Crypto-review platform",
+  "main": "index.js",
+  "author": "DragonLord",
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.2.0-rc.0",
+    "@openzeppelin/test-helpers": "^0.5.12",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.1",
+    "hardhat": "^2.4.3"
+  },
+  "devDependencies": {
+    "hardhat-log-remover": "^2.0.2"
+  }
+}
